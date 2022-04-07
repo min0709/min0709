@@ -1,6 +1,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-### Hi there 👋
+### 👋 Hi, I’m Minche
+👀 I’m interested in ... java
+🌱 I’m currently learning ... code
+📫 How to reach me ... just e-mail w2202@e-mirim.hs.kr
 
 <!--
 **min0709/min0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
